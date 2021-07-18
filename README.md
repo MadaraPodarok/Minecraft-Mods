@@ -3,4 +3,4 @@ Minecraft mods.
 
 Моды для Minecraft-client 1.7.10
 
-Добавьте в папку C:\Users\User\AppData\Roaming\.minecraft
+Добавьте в папку C:\Users\User\AppData\Roaming\ .minecraft
