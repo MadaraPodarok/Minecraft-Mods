@@ -14,7 +14,10 @@ Minecraft mods.
 Скачиваем Hamachi/Radmin, добавляем ip сервера в Minecraft-е
 
 ### Для сервера:
+
 Удалить для сервера эти моды:
+
 ![image](https://user-images.githubusercontent.com/32459501/181085004-afeb0a1a-25d6-4b5e-943e-40e59ff89703.png)
+
 
 ![image](https://user-images.githubusercontent.com/32459501/181085051-20f529d5-2f11-4176-ae3b-a51e04706622.png)
