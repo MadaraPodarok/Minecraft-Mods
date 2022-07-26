@@ -21,3 +21,7 @@ Minecraft mods.
 
 
 ![image](https://user-images.githubusercontent.com/32459501/181085051-20f529d5-2f11-4176-ae3b-a51e04706622.png)
+
+
+### Настройка eula 
+![image](https://user-images.githubusercontent.com/32459501/181085390-2490316d-bbd1-4ed7-8885-90f9d2ce9420.png)
