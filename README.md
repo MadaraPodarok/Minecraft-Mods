@@ -3,15 +3,20 @@ Minecraft mods.
 
 ###Клиентские Моды для Minecraft-client 1.7.10
 
-Установите TLauncher. https://tlauncher.org/
+1. Установите TLauncher. https://tlauncher.org/
 
-Добавьте в папку C:\Users\User\AppData\Roaming\.minecraft
+2. Скачайте архив.
 
-Скачиваем данный forge
+![image](https://user-images.githubusercontent.com/32459501/181091713-a7043f29-5b47-4808-8228-91bf55072c28.png)
+
+
+3. Добавьте в папку C:\Users\User\AppData\Roaming\.minecraft
+
+4. Скачиваем данный forge
 ![image](https://user-images.githubusercontent.com/32459501/181084602-94957ecf-e6d2-447a-a65b-45f9d59a6809.png)
 
 
-Скачиваем Hamachi/Radmin, добавляем ip сервера в Minecraft-е
+5. Скачиваем Hamachi/Radmin, добавляем ip сервера в Minecraft-е
 
 ### Для сервера:
 
