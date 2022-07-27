@@ -13,7 +13,7 @@ Minecraft mods.
 3. Добавьте в папку C:\Users\User\AppData\Roaming\.minecraft
 
 4. Скачиваем данный forge
-![image](https://user-images.githubusercontent.com/32459501/181084602-94957ecf-e6d2-447a-a65b-45f9d59a6809.png)
+![image](https://user-images.githubusercontent.com/32459501/181245631-cb900294-8aff-4ed3-9380-a732c3b86321.png)
 
 
 5. Скачиваем Hamachi/Radmin, добавляем ip сервера в Minecraft-е
