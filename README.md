@@ -13,6 +13,7 @@ Minecraft mods.
 3. Добавьте в папку C:\Users\User\AppData\Roaming\.minecraft
 
 4. Скачиваем данный forge
+
 ![image](https://user-images.githubusercontent.com/32459501/181245631-cb900294-8aff-4ed3-9380-a732c3b86321.png)
 
 
