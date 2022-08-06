@@ -1,7 +1,7 @@
 # Minecraft-1.7.10
 Minecraft mods.
 
-###Клиентские Моды для Minecraft-client 1.7.10
+### Клиентские Моды для Minecraft-client 1.7.10
 
 1. Установите TLauncher. https://tlauncher.org/
 
