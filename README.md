@@ -19,6 +19,8 @@ Minecraft mods.
 
 5. Скачиваем Radmin, добавляем ip сервера в Minecraft-е
 
+https://www.radmin-vpn.com/ru/
+
 ### Для сервера:
 
 Удалить для сервера эти моды:
