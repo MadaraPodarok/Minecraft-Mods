@@ -17,9 +17,7 @@ Minecraft mods.
 ![image](https://user-images.githubusercontent.com/32459501/181245631-cb900294-8aff-4ed3-9380-a732c3b86321.png)
 
 
-5. Скачиваем Hamachi/Radmin, добавляем ip сервера в Minecraft-е
-
-Ссылка для скачивания https://www.vpn.net/
+5. Скачиваем Radmin, добавляем ip сервера в Minecraft-е
 
 ### Для сервера:
 
