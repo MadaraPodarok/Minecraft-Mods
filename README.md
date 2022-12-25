@@ -10,7 +10,7 @@ Minecraft mods.
 ![image](https://user-images.githubusercontent.com/32459501/181091713-a7043f29-5b47-4808-8228-91bf55072c28.png)
 
 
-3. Добавьте в папку C:\Users\User\AppData\Roaming\.minecraft
+3. Добавьте в папку C:\Users\User\AppData\Roaming\ .minecraft
 
 4. Скачиваем данный forge
 
